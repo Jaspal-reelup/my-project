@@ -1,0 +1,3 @@
+[submodule "react-native-shared-components"]
+	path = react-native-shared-components
+	url = https://github.com/Jaspal-reelup/react-native-shared-components.git
